@@ -1,16 +1,11 @@
-# notes_app
+# Notes App
 
-A new Flutter project.
+A Functional Notes Flutter Application, Simple & Modern UI, Light & Dark mode available, Create, Read, Update and Delete Notes, Using Provider as State Management.
+The notes are saved in the devices local storage using the ISAR Database.
 
-## Getting Started
+## Images
+<p align="center">
+<img src="screenshots/image1.png" >
+<img src="screenshots/image2.png" >
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
